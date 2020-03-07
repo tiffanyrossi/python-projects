@@ -1,0 +1,2 @@
+# ListaDeExercicios #
+A comunidade [PythonBrasil](https://wiki.python.org.br/PythonBrasil) possui uma lista de exercícios sugeridos para iniciantes em Python. As listas e os exercícios resolvidos estão nas pastas de suas respectivas categorias, e são atualizadas conforme os exercícios são resolvidos. A lista completa pode ser acessada em [ListadeExercicios](https://wiki.python.org.br/ListaDeExercicios).
