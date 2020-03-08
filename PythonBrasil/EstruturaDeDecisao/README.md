@@ -1,17 +1,17 @@
 # EstruturaDeDecisao #
 Lista de exercícios disponível em: https://wiki.python.org.br/EstruturaDeDecisao
 
-- [ ] Faça um Programa que peça dois números e imprima o maior deles.
-- [ ] Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
-- [ ] Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
-- [ ] Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
-- [ ] Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+- [x] [01-maiornumero.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/01-maiornumero.py) Faça um Programa que peça dois números e imprima o maior deles.
+- [x] [02-positivoounegativo.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/02-positivoounegativo.py) Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+- [x] [03-FM.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/03-FM.py) Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+- [x] [04-letras.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/04-letras.py) Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+- [x] [05-aprovado.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/05-aprovado.py) Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
   - A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
   - A mensagem "Reprovado", se a média for menor do que sete;
   - A mensagem "Aprovado com Distinção", se a média for igual a dez.
-- [ ] Faça um Programa que leia três números e mostre o maior deles.
-- [ ] Faça um Programa que leia três números e mostre o maior e o menor deles.
-- [ ] Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+- [x] [06-maiornumero.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/06-maiornumero.py) Faça um Programa que leia três números e mostre o maior deles.
+- [x] [07-maiormenor.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/07-maiormenor.py) Faça um Programa que leia três números e mostre o maior e o menor deles.
+- [x] [08-precos.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/08-precos.py) Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 - [ ] Faça um Programa que leia três números e mostre-os em ordem decrescente.
 - [ ] Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 - [ ] As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
