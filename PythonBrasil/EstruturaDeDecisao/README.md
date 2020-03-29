@@ -12,9 +12,9 @@ Lista de exercícios disponível em: https://wiki.python.org.br/EstruturaDeDecis
 - [x] [06-maiornumero.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/06-maiornumero.py) Faça um Programa que leia três números e mostre o maior deles.
 - [x] [07-maiormenor.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/07-maiormenor.py) Faça um Programa que leia três números e mostre o maior e o menor deles.
 - [x] [08-precos.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/08-precos.py) Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
-- [ ] Faça um Programa que leia três números e mostre-os em ordem decrescente.
-- [ ] Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
-- [ ] As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
+- [x] [09-decrescente.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/09-decrescente.py) Faça um Programa que leia três números e mostre-os em ordem decrescente.
+- [x] [10-saudacao.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/10-saudacao.py) Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+- [x] [11-reajustesalarial.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/11-reajustesalarial.py) As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
   - salários até R$ 280,00 (incluindo) : aumento de 20%
   - salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
   - salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
