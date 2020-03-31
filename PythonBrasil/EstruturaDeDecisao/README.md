@@ -24,7 +24,7 @@ Lista de exercícios disponível em: https://wiki.python.org.br/EstruturaDeDecis
     - o percentual de aumento aplicado;
     - o valor do aumento;
     - o novo salário, após o aumento.
-- [ ] Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês. Desconto do IR:
+- [x] [12-folhadepagamento.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/12-folhadepagamento.py) Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês. Desconto do IR:
   - Salário Bruto até 900 (inclusive) - isento
   - Salário Bruto até 1500 (inclusive) - desconto de 5%
   - Salário Bruto até 2500 (inclusive) - desconto de 10%
@@ -38,8 +38,8 @@ Salário Bruto: (5 * 220)        : R$ 1100,00
         Total de descontos              : R$  165,00
         Salário Liquido                 : R$  935,00
  ```
-- [ ] Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
-- [ ] Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+- [x] [13-diasdasemana.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/13-diasdasemana.py) Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+- [x] [14-boletim.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/14-boletim.py) Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 ```
   Média de Aproveitamento  Conceito
   Entre 9.0 e 10.0        A
@@ -49,7 +49,7 @@ Salário Bruto: (5 * 220)        : R$ 1100,00
   Entre 4.0 e zero        E
 ```
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
-- [ ] Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. Dicas:
+- [x] [triangulo.py](https://github.com/tiffanyrossi/python-exercicios/blob/master/PythonBrasil/EstruturaDeDecisao/15-triangulo.py) Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. Dicas:
   - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
   - Triângulo Equilátero: três lados iguais;
   - Triângulo Isósceles: quaisquer dois lados iguais;
